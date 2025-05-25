@@ -9,7 +9,7 @@ public:
 	virtual const std::string& GetName() const = 0;
 	virtual void Calculate() = 0;
 protected:
-	double x; // аргумент
+	double x; // Р°СЂРіСѓРјРµРЅС‚
 };
 
 #endif /* FUNCTION_H */
